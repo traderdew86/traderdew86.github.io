@@ -1,6 +1,6 @@
 ---
 title: about
-layout: page
+layout: about
 ---
 ## 
 TO BE ADDED
