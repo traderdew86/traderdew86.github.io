@@ -32,6 +32,7 @@ github_username:  traderdew86
 # theme: wind-theme 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 color: "#13ccf9"
 # Exclude from processing.
